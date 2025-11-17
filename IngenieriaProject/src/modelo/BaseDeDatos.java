@@ -12,7 +12,7 @@ public class BaseDeDatos {
 
     // Agrega un producto
     public void agregarProducto(Producto p) {
-        productos.add(p);
+        productos.add(p); // mateo agrego un producto 
     }
 
     // Busca ignorando mayúsculas/minúsculas
